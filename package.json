@@ -1,11 +1,11 @@
 {
-  "name": "mindoodb-app-starter",
+  "name": "team-notes",
   "version": "0.1.0",
   "packageManager": "pnpm@11.1.1",
   "engines": {
     "node": ">=22.13.0"
   },
-  "description": "Starter template for a MindooDB Haven application",
+  "description": "Shared notes for a team",
   "private": true,
   "type": "module",
   "scripts": {

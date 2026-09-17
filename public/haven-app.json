@@ -1,9 +1,9 @@
 {
   "format": "mindoodb.haven.app",
   "formatVersion": 1,
-  "appId": "mindoodb-app-starter",
-  "label": "MindooDB App Starter",
-  "description": "A new MindooDB Haven application.",
+  "appId": "team-notes",
+  "label": "Team Notes",
+  "description": "Shared notes for a team",
   "version": "0.1.0",
   "runtime": "iframe",
   "hosting": "external",
@@ -12,7 +12,9 @@
     {
       "logicalDatabaseId": "main",
       "label": "Main",
-      "permissions": ["write"]
+      "permissions": [
+        "write"
+      ]
     }
   ]
 }

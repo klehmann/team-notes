@@ -1,18 +1,13 @@
-# TASK.md
+# Team Notes
 
-<!--
-  The app builder writes the user's description into this file when it creates the
-  repository, and the agent's first prompt is "read AGENTS.md, then implement TASK.md".
-
-  If you are reading this in the template itself, the description below is placeholder
-  text.
--->
+Shared notes for a team
 
 ## What this app should do
 
-Replace this section with a description of the application.
+Let people write notes, tag the, and search across them. One list screen and one editor.
 
 ## Notes
 
+- Read `AGENTS.md` first; it lists the SDK docs and the invariants.
 - Keep `public/haven-app.json` in step with the databases the app actually uses.
 - Prefer finishing one working screen over scaffolding several unfinished ones.
